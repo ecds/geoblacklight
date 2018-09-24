@@ -1,5 +1,5 @@
 gem 'blacklight', '>= 6.11'
-gem 'geoblacklight', :git => 'https://github.com/ecds/geoblacklight', :branch => 'configure-for-ecds'
+gem 'geoblacklight', '>= 1.9', :git => 'https://github.com/ecds/geoblacklight', :branch => 'configure-for-ecds'
 
 run 'bundle install'
 
