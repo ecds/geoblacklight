@@ -32,6 +32,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'geo_combine', '>= 0.3'
   spec.add_dependency 'mime-types'
   spec.add_dependency 'handlebars_assets'
+  spec.add_dependency 'dotenv-rails'
 
   spec.add_development_dependency 'solr_wrapper'
   spec.add_development_dependency 'rails-controller-testing'
