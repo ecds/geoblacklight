@@ -5,7 +5,8 @@ require 'geoblacklight/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'geoblacklight'
-  spec.version       = Geoblacklight::VERSION
+  spec.version       =  'configure-for-ecds' 
+#  spec.version       = Geoblacklight::VERSION
   spec.authors       = ['Mike Graves', 'Darren Hardy', 'Eliot Jordan', 'Jack Reed']
   spec.email         = ['mgraves@mit.edu', 'drh@stanford.edu', 'eliotj@princeton.edu', 'pjreed@stanford.edu']
   spec.summary       = 'A discovery platform for geospatial holdings'
